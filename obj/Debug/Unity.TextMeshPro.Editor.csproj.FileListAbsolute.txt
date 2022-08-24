@@ -1,0 +1,1 @@
+C:\Users\Vicon-OEM\RL Game\RL Test\obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache

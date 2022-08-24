@@ -1,0 +1,2 @@
+C:\Users\Vicon-OEM\RL Game\RL Test\obj\Debug\Unity.TextMeshPro.csproj.AssemblyReference.cache
+C:\Users\Vicon-OEM\RL Game\RL Test\obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
